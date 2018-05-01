@@ -61,7 +61,7 @@
     "npm-run-all": "^4.1.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "semantic-release": "^15.0.0",
+    "semantic-release": "^15.2.0",
     "sweetalert2": "^7.18.0",
     "tslint": "^5.9.1",
     "typescript": "^2.7.2",
